@@ -64,7 +64,9 @@ class SeleniumWrapper:
     #         row=ws.row_values(index)
     #         data.append((row[0],row[1]))
     #     return data
-   
-    
+   def test1(self):
+        print("test merge")
+    def testsdet(self):
+        print("test sdet")
 
 
