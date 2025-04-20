@@ -66,6 +66,7 @@ class SeleniumWrapper:
     #     return data
     def test1(self):
         print("test merge")
-    
+    def testsdet(self):
+        print("test sdet")
 
 
