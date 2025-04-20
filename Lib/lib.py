@@ -68,5 +68,7 @@ class SeleniumWrapper:
         print("test merge")
     def testsdet(self):
         print("test sdet")
+    def testfeat():
+        print("HI")
 
 
